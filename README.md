@@ -1,3 +1,3 @@
 # Laboratorium
 
-GitHub Actions - przeglad podstawowych rozwiazan
+.GitHub Actions - przeglad podstawowych rozwiazan
