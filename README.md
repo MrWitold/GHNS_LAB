@@ -1,2 +1,3 @@
-# GHNS_LAB
-Repo
+# Laboratorium
+
+GitHub Actions - przeglad podstawowych rozwiazan
